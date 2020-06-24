@@ -1,11 +1,13 @@
 ---
-title: Taro.showTabBar(option)
-sidebar_label: showTabBar
+title: Taro.hideTabBar(option)
+sidebar_label: hideTabBar
+id: version-1.3.44-hideTabBar
+original_id: hideTabBar
 ---
 
-显示 tabBar
+隐藏 tabBar
 
-> [参考文档](https://developers.weixin.qq.com/miniprogram/dev/api/ui/tab-bar/wx.showTabBar.html)
+> [参考文档](https://developers.weixin.qq.com/miniprogram/dev/api/ui/tab-bar/wx.hideTabBar.html)
 
 ## 类型
 
@@ -28,4 +30,4 @@ sidebar_label: showTabBar
 
 | API | 微信小程序 | H5 | React Native |
 | :---: | :---: | :---: | :---: |
-| Taro.showTabBar | ✔️ | ✔️ |  |
+| Taro.hideTabBar | ✔️ | ✔️ |  |

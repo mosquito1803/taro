@@ -1,6 +1,8 @@
 ---
 title: Taro.showTabBar(option)
 sidebar_label: showTabBar
+id: version-1.3.44-showTabBar
+original_id: showTabBar
 ---
 
 显示 tabBar
